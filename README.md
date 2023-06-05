@@ -4,6 +4,7 @@ New React App with following Features and versions:
 - React Routing
     - react-router-dom - Version 6
 - Bootstrap - Version 4
+- Typescript - Version 4.9
 
 # Getting Started with Create React App
 
